@@ -62,7 +62,7 @@ This is a design document for CampusConnect's new **notifications service**, whi
 
 ---
 
-# Part 4 - CPU Scheduling Simulation, Synchronization & Deadlock Analysis
+## [Q5] Part 4 - CPU Scheduling Simulation, Synchronization & Deadlock Analysis
 
 **Language: Python 3.**
 
